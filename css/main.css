@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Poppins:wght@400;600;700&display=swap');
+
+.container_menu_black {
+    width: 1440px;
+    height: 56px;
+    flex-shrink: 0;
+    background: #1C1B1F;
+}
+
+.menu_black {
+color: #F2F5F9;
+font-family: Manrope;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px; 
+}
+
+.container_menu_white {
+width: 1440px;
+height: 141.218px;
+flex-shrink: 0;
+}
+
+.logo {
+width: 94.935px;
+height: 61.218px;
+flex-shrink: 0;
+}
+
+.nav_link_home {
+color: #F45C32;
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.nav_link {
+color: #1C1B1F;
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.menu_white_phone {
+color: #1C1B1F;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 16px; /* 88.889% */
+}
+
+.menu_white_phone_text {
+color: #1C1B1F;
+font-family: Manrope;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 14px; /* 116.667% */
+}
+
+.banner_subtitle {
+color: #F45C32;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px; /* 111.111% */
+}
+
+.banner_title {
+color: #1C1B1F; /*original #F2F5F9 */
+font-family: Manrope;
+font-size: 78px;
+font-style: normal;
+font-weight: 800;
+line-height: 98px; /* 125.641% */
+}
+
+.banner_text {
+color: #1C1B1F;  /*original #F2F5F9 */
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+
+.btn_banner {
+color: #1C1B1F;   /*original #F2F5F9 */
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 100% */
+display: inline-flex;
+padding: 20px 46px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 6px;
+background: #F45C32;
+}
+
+.Emergency_Services_numbers {
+color: #1C1B1F;
+font-family: Manrope;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: 30px; /* 100% */
+opacity: 0.3;
+}
+
+.Emergency_Services_subtitle {
+color: #1C1B1F;
+font-family: Manrope;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: 30px; /* 100% */
+}
