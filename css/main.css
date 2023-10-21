@@ -552,3 +552,81 @@ font-style: normal;
 font-weight: 700;
 line-height: 30px; /* 107.143% */
 }
+
+  /* Testimonials section */
+
+.testimonials_subtitle {
+
+color: #F45C32;
+text-align: center;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.testimonials_title {
+
+color: #000000;
+text-align: center;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px; /* 100% */
+}
+
+.testimonials_text_p {
+
+color: #000000;
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 35px; /* 175% */
+}
+
+.testimonials_gita_smith_subtitle {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 85.714% */
+}
+
+.testimonials_gita_smith_text {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 90.909% */
+}
+
+.testimonials_mashal_jhon_subtitle {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 85.714% */
+}
+
+.testimonials_mashal_jhon_text {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 90.909% */
+}
