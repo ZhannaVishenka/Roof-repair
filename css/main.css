@@ -475,6 +475,7 @@ line-height: 24px; /* 100% */
  }
 
  .how_we_work_card_text_p {
+
 color: #000;
 text-align: center;
 font-family: Manrope;
@@ -505,4 +506,49 @@ font-style: normal;
 font-weight: 500;
 line-height: 26px; /* 185.714% */
  }
- 
+
+  /* Our experts section */
+
+  .our_experts_subtitle {
+
+color: #F45C32;
+text-align: center;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 100% */
+  }
+
+  .our_experts_title {
+
+color: #000000;
+text-align: center;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: 48px; /* 100% */
+  }
+
+.our_experts_text_subtitle {
+
+color: #F45C32;
+text-align: center;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 100% */
+}
+
+.our_experts_text_p {
+
+color: #000000;
+text-align: center;
+font-family: Manrope;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px; /* 107.143% */
+}
