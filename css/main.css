@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Poppins:wght@400;600;700&display=swap');
 
+/* Header */
+
 .container_menu_black {
-    width: 1440px;
-    height: 56px;
-    flex-shrink: 0;
-    background: #1C1B1F;
+width: 1440px;
+height: 56px;
+flex-shrink: 0;
+background: #1C1B1F;
 }
 
 .menu_black {
@@ -63,6 +65,8 @@ font-weight: 500;
 line-height: 14px; /* 116.667% */
 }
 
+/* Banner section */
+
 .banner_subtitle {
 color: #F45C32;
 font-family: Manrope;
@@ -106,13 +110,14 @@ border-radius: 6px;
 background: #F45C32;
 }
 
+ /* How it work section */
+
 .Emergency_Services_numbers {
-color: #1C1B1F;
 font-family: Manrope;
-font-size: 30px;
+font-size: 80px;
 font-style: normal;
-font-weight: 800;
-line-height: 30px; /* 100% */
+font-weight: 700;
+line-height: 80px; /* 100% */
 opacity: 0.3;
 }
 
@@ -123,4 +128,68 @@ font-size: 30px;
 font-style: normal;
 font-weight: 800;
 line-height: 30px; /* 100% */
+}
+
+.Emergency_Services_text {
+color: #000;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+.Experienced_Team_numbers {
+font-family: Manrope;
+font-size: 80px;
+font-style: normal;
+font-weight: 700;
+line-height: 80px; /* 100% */
+opacity: 0.3;
+}
+
+.Experienced_Team_subtitle {
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: 30px; /* 100% */   
+}
+
+.Experienced_Team_text {
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+.Quality_Maintenance_numbers {
+color: #1C1B1F; 
+font-family: Manrope;
+font-size: 80px;
+font-style: normal;
+font-weight: 700;
+line-height: 80px; /* 100% */
+opacity: 0.3;
+}
+
+.Quality_Maintenance_subtitle {
+color: #1C1B1F;
+font-family: Manrope;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: 30px; /* 100% */
+}
+
+.Quality_Maintenance_text {
+color: #000000;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
 }
