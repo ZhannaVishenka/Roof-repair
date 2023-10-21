@@ -630,3 +630,135 @@ font-style: normal;
 font-weight: 500;
 line-height: 20px; /* 90.909% */
 }
+
+  /* Our blogs section */
+
+  .our_blogs_subtitle {
+
+color: #F45C32;
+font-family: Manrope;
+text-align: center;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 100% */
+  }
+
+  .our_blogs_title {
+
+color: #000000;
+font-family: Manrope;
+text-align: center;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px; /* 100% */
+  }
+
+.our_blogs_text_subtitle {
+
+color: #000000;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 35px; /* 145.833% */
+}
+
+.our_blogs_text_subtitle_orange {
+    
+color: #F45C32;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 35px; /* 145.833% */
+}
+
+.our_blogs_text_p {
+
+color: #000000;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+}
+
+.our_blogs_text_news {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 8px;
+font-style: normal;
+font-weight: 600;
+line-height: 8px; /* 100% */
+}
+
+.our_blogs_text_Articles {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 8px;
+font-style: normal;
+font-weight: 600;
+line-height: 8px; /* 100% */
+}
+
+.our_blogs_date_title {
+
+color: #000000;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 100% */
+opacity: 0.64;
+}
+
+.our_blogs_people_title {
+
+color: #000000;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 100% */
+opacity: 0.64;
+}
+
+.our_blogs_btn {
+
+color: #F45C32;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 18px; /* 100% */
+width: 387px;
+height: 56px;
+flex-shrink: 0;
+border-radius: 0px 0px 10px 10px;
+background: #FFF;
+box-shadow: 1px 1px 16px 1px rgba(0, 0, 0, 0.09);
+}
+
+.our_blogs_btn_orange {
+
+color: #FFF;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 18px; /* 100% */
+width: 387px;
+height: 56px;
+flex-shrink: 0;
+border-radius: 0px 0px 10px 10px;
+background: #F45C32;
+box-shadow: 1px 1px 16px 1px rgba(0, 0, 0, 0.09);
+}
+
+ /* Footer */
+
+ 
