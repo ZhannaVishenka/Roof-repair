@@ -269,3 +269,66 @@ background: #F45C32;
  }
 
   /* Our Services section */
+
+.our_services_subtitle {
+color: #F45C32;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 100% */
+}
+
+.our_services_title {
+color: #000000;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 125% */
+}
+
+.our_services_text {
+color: #000000;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 38px; /* 158.333% */    
+}
+
+.our_services_card_subtitle {
+color: #000000;
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: 24px; /* 120% */
+}
+
+.our_services_card_text_p {
+color: #333333;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */   
+}
+
+.our_services_card_subtitle_white {
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: 24px; /* 120% */
+}
+
+.our_services_card_text_p_white {
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */
+}
