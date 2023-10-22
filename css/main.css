@@ -3,6 +3,7 @@
 /* Header */
 
 .container_menu_black {
+
 width: 1440px;
 height: 56px;
 flex-shrink: 0;
@@ -10,6 +11,7 @@ background: #1C1B1F;
 }
 
 .menu_black {
+
 color: #F2F5F9;
 font-family: Manrope;
 font-size: 12px;
@@ -17,15 +19,18 @@ font-weight: 400;
 line-height: 16px; 
 }
 
+
 .container_menu_white {
+
 width: 1440px;
-height: 141.218px;
+height: 142px;
 flex-shrink: 0;
 }
 
 .logo {
-width: 94.935px;
-height: 61.218px;
+
+width: 95px;
+height: 62px;
 flex-shrink: 0;
 }
 
@@ -112,7 +117,7 @@ background: #F45C32;
 
  /* How it work section */
 
-.Emergency_Services_numbers {
+.emergency_services_numbers {
 font-family: Manrope;
 font-size: 80px;
 font-style: normal;
@@ -121,7 +126,7 @@ line-height: 80px; /* 100% */
 opacity: 0.3;
 }
 
-.Emergency_Services_subtitle {
+.emergency_services_subtitle {
 color: #1C1B1F;
 font-family: Manrope;
 font-size: 30px;
@@ -130,7 +135,7 @@ font-weight: 800;
 line-height: 30px; /* 100% */
 }
 
-.Emergency_Services_text {
+.emergency_services_text {
 color: #000;
 font-family: Manrope;
 font-size: 18px;
@@ -139,7 +144,7 @@ font-weight: 400;
 line-height: 30px; /* 166.667% */
 }
 
-.Experienced_Team_numbers {
+.experienced_team_numbers {
 font-family: Manrope;
 font-size: 80px;
 font-style: normal;
@@ -148,7 +153,7 @@ line-height: 80px; /* 100% */
 opacity: 0.3;
 }
 
-.Experienced_Team_subtitle {
+.experienced_team_subtitle {
 color: #1C1B1F;   /*original #FFFFFF */
 font-family: Manrope;
 font-size: 30px;
@@ -157,7 +162,7 @@ font-weight: 800;
 line-height: 30px; /* 100% */   
 }
 
-.Experienced_Team_text {
+.experienced_team_text {
 color: #1C1B1F;   /*original #FFFFFF */
 font-family: Manrope;
 font-size: 18px;
@@ -166,7 +171,7 @@ font-weight: 400;
 line-height: 30px; /* 166.667% */
 }
 
-.Quality_Maintenance_numbers {
+.quality_maintenance_numbers {
 color: #1C1B1F; 
 font-family: Manrope;
 font-size: 80px;
@@ -176,7 +181,7 @@ line-height: 80px; /* 100% */
 opacity: 0.3;
 }
 
-.Quality_Maintenance_subtitle {
+.quality_maintenance_subtitle {
 color: #1C1B1F;
 font-family: Manrope;
 font-size: 30px;
@@ -185,7 +190,7 @@ font-weight: 800;
 line-height: 30px; /* 100% */
 }
 
-.Quality_Maintenance_text {
+.quality_maintenance_text {
 color: #000000;
 font-family: Manrope;
 font-size: 18px;
@@ -921,8 +926,8 @@ font-weight: 500;
 line-height: 16px; /* 88.889% */
  }
 
- .footer_footer_copyright_text {
-    
+ .footer_copyright_text {
+
 color: rgba(255, 255, 255, 0.80);
 text-align: center;
 font-family: Manrope;
