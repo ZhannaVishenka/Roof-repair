@@ -1,0 +1,938 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Poppins:wght@400;600;700&display=swap');
+
+/* Header */
+
+.container_menu_black {
+
+width: 1440px;
+height: 56px;
+flex-shrink: 0;
+background: #1C1B1F;
+}
+
+.menu_black {
+
+color: #F2F5F9;
+font-family: Manrope;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px; 
+}
+
+
+.container_menu_white {
+
+width: 1440px;
+height: 142px;
+flex-shrink: 0;
+}
+
+.logo {
+
+width: 95px;
+height: 62px;
+flex-shrink: 0;
+}
+
+.nav_link_home {
+color: #F45C32;
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.nav_link {
+color: #1C1B1F;
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.menu_white_phone {
+color: #1C1B1F;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 16px; /* 88.889% */
+}
+
+.menu_white_phone_text {
+color: #1C1B1F;
+font-family: Manrope;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 14px; /* 116.667% */
+}
+
+/* Banner section */
+
+.banner_subtitle {
+color: #F45C32;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px; /* 111.111% */
+}
+
+.banner_title {
+color: #1C1B1F; /*original #F2F5F9 */
+font-family: Manrope;
+font-size: 78px;
+font-style: normal;
+font-weight: 800;
+line-height: 98px; /* 125.641% */
+}
+
+.banner_text {
+color: #1C1B1F;  /*original #F2F5F9 */
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+
+.btn_banner {
+color: #1C1B1F;   /*original #F2F5F9 */
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 100% */
+display: inline-flex;
+padding: 20px 46px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 6px;
+background: #F45C32;
+}
+
+ /* How it work section */
+
+.emergency_services_numbers {
+font-family: Manrope;
+font-size: 80px;
+font-style: normal;
+font-weight: 700;
+line-height: 80px; /* 100% */
+opacity: 0.3;
+}
+
+.emergency_services_subtitle {
+color: #1C1B1F;
+font-family: Manrope;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: 30px; /* 100% */
+}
+
+.emergency_services_text {
+color: #000;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+.experienced_team_numbers {
+font-family: Manrope;
+font-size: 80px;
+font-style: normal;
+font-weight: 700;
+line-height: 80px; /* 100% */
+opacity: 0.3;
+}
+
+.experienced_team_subtitle {
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: 30px; /* 100% */   
+}
+
+.experienced_team_text {
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+.quality_maintenance_numbers {
+color: #1C1B1F; 
+font-family: Manrope;
+font-size: 80px;
+font-style: normal;
+font-weight: 700;
+line-height: 80px; /* 100% */
+opacity: 0.3;
+}
+
+.quality_maintenance_subtitle {
+color: #1C1B1F;
+font-family: Manrope;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: 30px; /* 100% */
+}
+
+.quality_maintenance_text {
+color: #000000;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+ /* About Us section */
+
+ .years_of_experience_number {
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 60px;
+font-style: normal;
+font-weight: 800;
+line-height: 30px; /* 50% */
+ }
+
+ .years_of_experience_text {
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 25px; /* 113.636% */
+ }
+
+ .about_us_subtitle {
+color: #F45C32;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px; /* 111.111% */
+ }
+
+ .about_us_title {
+color: #000000;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: 58px; /* 120.833% */
+ }
+
+ .about_us_text {
+color: #000000;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 35px; /* 145.833% */
+ }
+
+ .about_us_text_check {
+color: #000000;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 100% */
+ }
+
+ .btn_about_us {
+color: #FFFFFF;
+text-align: center;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 35px; /* 145.833% */
+display: flex;
+width: 241px;
+padding: 14px 30px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 4px;
+background: #F45C32;
+ }
+
+  /* Our Services section */
+
+.our_services_subtitle {
+color: #F45C32;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 100% */
+}
+
+.our_services_title {
+
+color: #000000;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 125% */
+}
+
+.our_services_text {
+
+color: #000000;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 38px; /* 158.333% */    
+}
+
+.our_services_card_subtitle {
+
+color: #000000;
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: 24px; /* 120% */
+}
+
+.our_services_card_text_p {
+
+color: #333333;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */   
+}
+
+.our_services_card_subtitle_white {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: 24px; /* 120% */
+}
+
+.our_services_card_text_p_white {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */
+}
+
+ /* Why choose Us section */
+
+ .why_choose_us_subtitle {
+
+color: #F45C32;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 100% */
+ }
+
+ .why_choose_us_title {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 125% */
+ }
+
+ .why_choose_us_text {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+ }
+
+ .why_choose_us_card_text_subtitle {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 20px; /* 83.333% */
+
+ }
+ 
+ .why_choose_us_card_text_p {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 142.857% */
+ }
+
+  /* Latest Projects section */
+
+  .latest_projects_subtitle {
+
+color: #F45C32;
+text-align: center;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 100% */
+  }
+
+  .latest_projects_title {
+
+color: #000000;
+text-align: center;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: 58px; /* 120.833% */
+  }
+
+  .latest_projects_card_text_subtitle {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 24px; /* 100% */  
+  }
+
+  .latest_projects_card_text_p {
+
+color: #F45C32;
+text-align: center;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 18px; /* 100% */
+  }
+
+ /* How We Work section */
+
+ .how_we_work_subtitle {
+
+color: #F45C32;
+text-align: center;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 100% */
+ }
+
+ .how_we_work_title {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: 48px; /* 100% */
+ }
+
+ .how_we_work_card_text_subtitle {
+
+color: #000000;
+text-align: center;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 24px; /* 100% */
+ }
+
+ .how_we_work_card_text_p {
+
+color: #000;
+text-align: center;
+font-family: Manrope;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; /* 185.714% */
+ }
+
+ .how_we_work_card_text_subtitle_white {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 24px; /* 100% */
+ }
+
+ .how_we_work_card_text_p_white {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; /* 185.714% */
+ }
+
+  /* Our experts section */
+
+  .our_experts_subtitle {
+
+color: #F45C32;
+text-align: center;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 100% */
+  }
+
+  .our_experts_title {
+
+color: #000000;
+text-align: center;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: 48px; /* 100% */
+  }
+
+.our_experts_text_subtitle {
+
+color: #F45C32;
+text-align: center;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 100% */
+}
+
+.our_experts_text_p {
+
+color: #000000;
+text-align: center;
+font-family: Manrope;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px; /* 107.143% */
+}
+
+  /* Testimonials section */
+
+.testimonials_subtitle {
+
+color: #F45C32;
+text-align: center;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.testimonials_title {
+
+color: #000000;
+text-align: center;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px; /* 100% */
+}
+
+.testimonials_text_p {
+
+color: #000000;
+font-family: Manrope;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 35px; /* 175% */
+}
+
+.testimonials_gita_smith_subtitle {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 85.714% */
+}
+
+.testimonials_gita_smith_text {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 90.909% */
+}
+
+.testimonials_mashal_jhon_subtitle {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 85.714% */
+}
+
+.testimonials_mashal_jhon_text {
+
+color: #1C1B1F;   /*original #FFFFFF */
+text-align: center;
+font-family: Manrope;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 90.909% */
+}
+
+  /* Our blogs section */
+
+  .our_blogs_subtitle {
+
+color: #F45C32;
+font-family: Manrope;
+text-align: center;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 100% */
+  }
+
+  .our_blogs_title {
+
+color: #000000;
+font-family: Manrope;
+text-align: center;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px; /* 100% */
+  }
+
+.our_blogs_text_subtitle {
+
+color: #000000;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 35px; /* 145.833% */
+}
+
+.our_blogs_text_subtitle_orange {
+    
+color: #F45C32;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 35px; /* 145.833% */
+}
+
+.our_blogs_text_p {
+
+color: #000000;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+}
+
+.our_blogs_text_news {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 8px;
+font-style: normal;
+font-weight: 600;
+line-height: 8px; /* 100% */
+}
+
+.our_blogs_text_Articles {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 8px;
+font-style: normal;
+font-weight: 600;
+line-height: 8px; /* 100% */
+}
+
+.our_blogs_date_title {
+
+color: #000000;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 100% */
+opacity: 0.64;
+}
+
+.our_blogs_people_title {
+
+color: #000000;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 100% */
+opacity: 0.64;
+}
+
+.our_blogs_btn {
+
+color: #F45C32;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 18px; /* 100% */
+width: 387px;
+height: 56px;
+flex-shrink: 0;
+border-radius: 0px 0px 10px 10px;
+background: #FFF;
+box-shadow: 1px 1px 16px 1px rgba(0, 0, 0, 0.09);
+}
+
+.our_blogs_btn_orange {
+
+color: #FFF;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 18px; /* 100% */
+width: 387px;
+height: 56px;
+flex-shrink: 0;
+border-radius: 0px 0px 10px 10px;
+background: #F45C32;
+box-shadow: 1px 1px 16px 1px rgba(0, 0, 0, 0.09);
+}
+
+ /* Footer */
+
+ .need_any_help_subtitle {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; /* 100% */
+ }
+
+ .need_roofing_services_title {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: 48px; /* 100% */
+ }
+
+ .footer_btn {
+
+color: #F45C32;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 100% */
+display: flex;
+width: 280px;
+height: 68px;
+padding: 22px 30px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+border-radius: 6px;
+background: #FFFFFF;
+ }
+
+ .footer_text_p {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+ }
+
+ .footer_follow_us_text {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 100% */
+ }
+
+ .footer_get_in_touch_title {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+ }
+
+ .footer_get_in_touch_text {
+
+color: #1C1B1F;   /*original #F2F5F9 */
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+ }
+
+ .footer_get_in_touch_text_mail {
+
+color: #1C1B1F;   /*original #F2F5F9 */
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 12px; /* 75% */
+ }
+
+ .footer_open_hours_title {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+ }
+
+ .footer_open_hours_text {
+
+color: #1C1B1F;   /*original #F2F5F9 */
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+ }
+
+ .footer_galley_title {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+ }
+
+ .footer_newsletter_title {
+    
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 100% */
+ }
+
+ .footer_newsletter_text {
+    
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+ }
+
+ .footer_newsletter_phone_text {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 14px; /* 116.667% */
+ }
+
+ .footer_newsletter_phone_number {
+
+color: #1C1B1F;   /*original #FFFFFF */
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 16px; /* 88.889% */
+ }
+
+ .footer_copyright_text {
+
+color: rgba(255, 255, 255, 0.80);
+text-align: center;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 18px; /* 100% */
+ }
